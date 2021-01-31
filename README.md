@@ -1,4 +1,4 @@
-# leyou-manage-web
+# shopping-manage-web
 
 > A Vue.js project
 
